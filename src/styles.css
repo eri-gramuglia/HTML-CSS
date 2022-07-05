@@ -1,3 +1,45 @@
 body {
-  font-family: sans-serif;
+  background-image: url(https://http2.mlstatic.com/D_NQ_NP_730547-MLA25841033220_082017-O.jpg);
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-color: #d46c15;
+  /* sistema hexa 0-9 A B C D E F */
+}
+
+h1 {
+  color: rgb(68, 204, 245);
+}
+
+ul,
+ol {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 20px;
+}
+
+ul > li {
+  list-style: none;
+  background-color: darkgoldenrod;
+}
+
+ul > a {
+  text-decoration: none;
+}
+
+.liEspecial {
+  font-style: italic;
+}
+
+.tamanio {
+  font-size: 40px;
+  color: #d41515;
+}
+
+#elMejorLi {
+  font-weight: bold;
+}
+
+div {
+  width: 300px;
+  height: 300px;
+  border: 3px solid #000;
 }
