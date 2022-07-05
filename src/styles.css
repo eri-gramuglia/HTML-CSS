@@ -1,5 +1,5 @@
 body {
-  background-image: url(https://http2.mlstatic.com/D_NQ_NP_730547-MLA25841033220_082017-O.jpg);
+  background-image: url(https://pixnio.com/free-images/2019/07/21/2019-07-21-18-00-23-1200x675.jpg);
   background-repeat: no-repeat;
   background-size: contain;
   background-color: #d46c15;
@@ -9,20 +9,8 @@ body {
 h1 {
   color: rgb(68, 204, 245);
 }
-
-ul,
-ol {
-  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
-  font-size: 20px;
-}
-
-ul > li {
-  list-style: none;
-  background-color: darkgoldenrod;
-}
-
-ul > a {
-  text-decoration: none;
+h2 {
+  color: rgb(180, 68, 245);
 }
 
 .liEspecial {
